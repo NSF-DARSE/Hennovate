@@ -1,6 +1,10 @@
 # Hennovate
 This repository is the central hub for the NSF DARSE, FSAII, The State of Delaware Hackathon. Hennovate - 2026
 
+<p align="center">
+  <img src="assets/theme.png" alt="NSF DARSE RSE Course" width="800">
+</p>
+
 ## Purpose
 This repository contains links to all case study repositories
 
