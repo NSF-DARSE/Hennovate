@@ -6,8 +6,8 @@ This repository contains links to all case study repositories
 
 ## Case Studies
 
-| Case Study | Partner | Repository |
-|-----------|---------|------------|
+| Case Study | Partner | Repository | Slides |
+|-----------|---------|------------|---------|
 | Emergent - An AI-powered abnormal event notification system that intelligently classifies and routes events, generates employee infographics and executive summaries, and enables human-in-the-loop approval for safe and high risk communication. | State of Delaware Department of Finance | https://github.com/NSF-DARSE/emola | [View PDF](slides/303-deptFinance-emergent) |
 | Analyze historical transportation asset condition and inspection data (bridge and pavement tracks) to predict future deterioration and support proactive maintenance and inspection prioritization. | DELDOT maintenance team | https://github.com/NSF-DARSE/DelDot-Predictive-Asset-maintenance-2026 |
 | Hourly traffic volume forecasting for 118 anonymous monitoring stations across Delaware's road network, with calibrated uncertainty, scenario analysis, and a deployed operational assistant. | DELDOT Traffic Team | https://github.com/NSF-DARSE/DelDot-Traffic-Team |
