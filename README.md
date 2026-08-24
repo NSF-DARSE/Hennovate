@@ -6,7 +6,7 @@ This repository is the central hub for the NSF DARSE, FSAII, The State of Delawa
 </p>
 
 ## Purpose
-This repository contains links to all case study repositories
+This repository contains links to all case study repositories and final presentations slides
 
 ## Case Studies
 
